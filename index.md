@@ -6,4 +6,4 @@
 
 ## Math
 
-$$ y=\sqrt{x} $$
+$$ \frac{dy}{dx} = x $$
