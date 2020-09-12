@@ -11,3 +11,4 @@ $$ \frac{dy}{dx} = x $$
 ## Link
 
 [notebook](assets/example_notebook.html)
+[notebook](assets/widget.html)
