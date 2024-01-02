@@ -1,0 +1,42 @@
+name: Deploy Sphinx site
+on:
+  push:
+    branches: ["feature/sphinx-implementation"]
+  workflow_dispatch:
+jobs:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+      - name: Install Sphinx
+        run: pip install -U sphinx
+      - name: Build Sphinx site
+        run: sphinx-build -M html  . _build 
+    - name: Fix permissions
+      run: |
+        chmod -c -R +rX "_build/" | while read line; do
+          echo "::warning title=Invalid file permissions automatically fixed::$line"
+        done
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _build/html
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
