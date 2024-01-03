@@ -1,10 +1,9 @@
-# Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
+name: Deploy Sphinx site
 
 on:
-  # Runs on pushes targeting the default branch
+  # Decide which branch to use
   push:
-    branches: ["main"]
+    branches: ["feature/sphinx-implementation"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -22,24 +21,34 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Build job
   build:
+    # Build job
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          source: ./
-          destination: ./_site
+          python-version: "3.12"
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+      - name: Install Sphinx
+        run: pip install -U sphinx
+      - name: Build Sphinx site
+        run: sphinx-build -M html  . _build 
+      - name: Fix permissions
+        run: |
+          chmod -c -R +rX "_build/" | while read line; do
+            echo "::warning title=Invalid file permissions automatically fixed::$line"
+          done
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
-
-  # Deployment job
+        with:
+          path: _build/html
   deploy:
+    # Deploy job
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
