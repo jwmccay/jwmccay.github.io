@@ -37,7 +37,7 @@ jobs:
       - name: Install Sphinx
         run: pip install -U sphinx
       - name: Build Sphinx site
-        run: sphinx-build -M html  . _build 
+        run: sphinx-build -M html source _build 
       - name: Fix permissions
         run: |
           chmod -c -R +rX "_build/" | while read line; do
