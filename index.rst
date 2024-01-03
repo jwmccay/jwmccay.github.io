@@ -6,20 +6,20 @@
 Welcome to smilacina.com!
 =========================
 
-This is a placeholder for a personal website. The name is botanically inspired.
-
-*Smilacina* is a defunct genus of flowering plants within Asparagaceae. It previously contained, among others, false Solomon's seal (`Maianthemum racemosum <https://en.wikipedia.org/wiki/Maianthemum_racemosum>`_).
+This is `my <https://github.com/jwmccay>`_ personal website. For an explanation of the name, see :doc:`about`.
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
+   about
+   site_construction
 
 
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
 * :ref:`search`
