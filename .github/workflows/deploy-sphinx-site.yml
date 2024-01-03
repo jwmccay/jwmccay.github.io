@@ -3,7 +3,7 @@ name: Deploy Sphinx site
 on:
   # Decide which branch to use
   push:
-    branches: ["feature/sphinx-implementation"]
+    branches: ["main"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
