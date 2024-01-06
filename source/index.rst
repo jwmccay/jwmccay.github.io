@@ -15,11 +15,3 @@ This is `my <https://github.com/jwmccay>`_ personal website. For an explanation 
 
    about
    site_construction
-
-
-Indices and tables
-==================
-
-.. * :ref:`genindex`
-.. * :ref:`modindex`
-* :ref:`search`

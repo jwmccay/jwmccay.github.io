@@ -26,3 +26,8 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_theme = 'alabaster'
 html_static_path = ['_static']
+html_title = "a personal website"
+
+html_theme_options = {
+    'logo': 'smilacina_small.jpg',
+}
