@@ -16,4 +16,3 @@ This is `my <https://github.com/jwmccay>`_ personal website. For an explanation 
    about
    book_ranking_tool
    revisited_books/revisited_books
-   site_construction
