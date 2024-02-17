@@ -4,6 +4,7 @@ Sci-Fi of My Childhood
 I'm revisiting some books (mostly science fiction) that I read as a child.
 
 Some possible, upcoming books:
+
 * *Conrad's Fate*
 * *Lirael*
 * *Terrier*
