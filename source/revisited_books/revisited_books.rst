@@ -5,7 +5,6 @@ I'm revisiting some books (mostly science fiction) that I read as a child.
 
 Some possible, upcoming books:
 
-* *Conrad's Fate*
 * *Lirael*
 * *Terrier*
 * *Farmer in the Sky*
@@ -16,3 +15,4 @@ Some possible, upcoming books:
    :caption: Contents:
 
    a_matter_of_profit
+   conrads_fate
