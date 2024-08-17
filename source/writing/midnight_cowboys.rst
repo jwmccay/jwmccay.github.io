@@ -11,7 +11,15 @@ I have a number of memories of this from the many times I did it while leading h
 
 The actual "Ride of the Midnight Cowboys - Redux" was on a Saturday night, the only night of the week with only staff in camp. It had been done once before that I know of, though no-one from the first time was along when I did it. The first group came up with the name, hence the "Redux" in the title. The goal was to leave after sunset, climb Mt. Pico, and come back before sunrise.
 
-I do not remember who said we should do it. It may have been Tim, who worked in aquatics. I do remember he wanted to get out of camp on a hike because aquatics staff were stuck at the lake all week. Other than Tim and me, Tanner and one other person went along. Tanner worked with me in the nature lodge and ended up having long tenure in Pico (he was there when I went back for a visit five or six years later). The remaining person may have been Tanner's older brother, Hunter, but I do not remember clearly. 
+I do not remember who said we should do it. It may have been Tim, who worked in aquatics. I do remember he wanted to get out of camp on a hike because aquatics staff were stuck at the lake all week. Other than Tim and me, Tanner and one other person went along. Tanner worked with me in the nature lodge and ended up having long tenure in Pico (he was there when I went back for a visit five or six years later). The remaining person may have been Tanner's older brother, Hunter, but I do not remember clearly.
+
+I am getting to the meat of story, but the interesting thing is that I do not remember much. I remember
+
+* walking along the ridge above Tick Meadows with flashlights. There was a fallen tree on the meadow-side of the ridge (a madrone that had fallen in the '08 fires) that was difficult to get around even in daylight.
+* walking up to the summit dome in the moonlight. The moon was near-full and, with the white marble on the summit, it was very bright. We did not need flashlights. It was cold, but I was wearing long pants, a staff fleece jacket, and my rain jacket, so I felt warm. My memory of the clothing and the temperature is especially distinct. I can still feel the cold on my face while my core was warm if I think back on it. I also remember having a nice pair of boots for the hike, Tanner was similarly well-equiped, but Tim was up there with a T-shirt and running shoes. There are two specific images from this that stick into my mind: others standing on the summit dome looking south and a close-up of eroded marble glowing in the moonlight.
+* taking a shower after getting back at 4 AM. I remember being in the shower in the dark (a photographic memory with details of the sink, shower, and the pattern of shadows) and being pleased at how much hot water there was. During the day, there was never enough hot water to go around.
+
+As mentioned earlier, this was a formative experience for me. I gained a great deal of self-confidence and look back on it fondly. Yet, I remember few details. A similar but repetitive experience stays much more strongly in my mind. I also wonder if I would remember it better with photographs or if photographs force a certain perspective. For, other trips that I do have photographs from, much of what I remember is dictated by the photographs.
 
 Thoughts
 ========
