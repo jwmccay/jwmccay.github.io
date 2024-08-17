@@ -20,20 +20,3 @@ I am getting to the meat of story, but the interesting thing is that I do not re
 * taking a shower after getting back at 4 AM. I remember being in the shower in the dark (a photographic memory with details of the sink, shower, and the pattern of shadows) and being pleased at how much hot water there was. During the day, there was never enough hot water to go around.
 
 As mentioned earlier, this was a formative experience for me. I gained a great deal of self-confidence and look back on it fondly. Yet, I remember few details. A similar but repetitive experience stays much more strongly in my mind. I also wonder if I would remember it better with photographs or if photographs force a certain perspective. For, other trips that I do have photographs from, much of what I remember is dictated by the photographs.
-
-Thoughts
-========
-
-* Made the hike many times but only have two visual memories from that hike
-   * Moonlight view from the summit
-   * Showering at 4 AM after getting back (no competition for hot water)
-* I have a few other visual memories from other hikes that are very distinct
-    * snake
-    * Stickers
-    * Sunset dinner
-    * walking down at night (often confused with this hike)
-* Who was it with?
-   * three other people:
-       * Tim - swim, wanted to go on the hike
-       * Tanner
-       * Someone else (possibly Tanner's brother Hunter?)
