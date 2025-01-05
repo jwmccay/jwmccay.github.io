@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Smilacina'
-copyright = '2024, James McCay'
+copyright = '2020-2025, James McCay'
 author = 'James McCay'
 release = '0.2'
 
