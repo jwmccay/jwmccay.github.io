@@ -3,6 +3,14 @@ Conrad's Fate
 
 by *Diana Wynne Jones*
 
+*Re-read date: June 2024*
+
+*Original read date: circa-2006*
+
+`Libby Link`_
+
+.. _Libby Link: https://share.libbyapp.com/title/1004488
+
 I first ran into *Conrad's Fate* in a book store in Victoria, BC, when I was on a road trip with my parents. Having enough books to read on a road trip was always a problem: I'd pack fifteen or so and be done with them in a week and a half, so we'd have to keep stopping by bookstores. The Pacific Northwest is good for book stores, so it was easy this trip.
 
 Anyway, *Conrad's Fate* is part of Diana Wynne Jones' *Chrestomanci* series, which are about a parallel world to our own where magic is common. The titular character (Chrestomanci, though the word is the job title rather than his name which is Christopher), is sort of the chief magic cop. *Conrad's Fate* is a story earlier in the timeline where Christopher is Chrestomanci-in-training. The premise is that Christopher and a friend are in-disguise as servants in a P.G. WOdehouse-style manor. I won't summarize the plot more than that, since that can be found on Wikipedia, but I'll talk about why I like it so much. It's one of my favorite books, and I've actually read it several times since that first time I encountered it.
