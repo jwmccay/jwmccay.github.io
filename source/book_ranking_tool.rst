@@ -1,10 +1,8 @@
 Libby Rankings
 ==============
+I wrote a `tool to rank books I've read <https://github.com/jwmccay/libby-bracket>`_ and its results. It takes a reading history json from Libby and sets up a bracket-style competion in the terminal.
 
-Forthcoming discussion of `my libby ranking tool <https://github.com/jwmccay/libby-bracket>`_ and its results.
-
-
-As a preview, the top twelve, in no particular order, were:
+When I did it, my the top twelve books, in no particular order, were:
 
 * *The Tombs of Atuan* by Ursula K. Le Guin
 * *Drowned Ammet* by Diana Wynne Jones
@@ -18,3 +16,5 @@ As a preview, the top twelve, in no particular order, were:
 * *Conrad's Fate* by Diana Wynne Jones
 * *The Good Shepherd* by C. S. Forester
 * *The Merlin Conspiracy* by Diana Wynne Jones
+
+The Libby history I have only covers a few years, and it misses out on books I own, books that are hard to find, and physical copies.  However, my penchant for re-reading makes it pretty reflective of books that I really like.
