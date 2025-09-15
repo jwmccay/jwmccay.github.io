@@ -17,7 +17,7 @@ The sunset began at 3:56 PM and ended at 3:58 PM. If I run::
         -vl 2700 -ni 100 -cm "xy" \
         -dp -fd "data/figs"
 
-I get a prediction of 3:55 PM. Only off by a couple minutes, which is pretty good given the grid resolution and uncertainty in when the sunset is actually done. The predicted vector at the time of occlusion also lines up well with where the sun is in the picture above.
+I get a prediction of 3:55 PM. Only off by a couple minutes, which is pretty good given the grid resolution and uncertainty in when the sunset is actually done. The predicted vector at the time of occlusion lines up well with where the sun is in the picture above.
 
 .. image:: images/brisbane_sunset/mesh.png
    :alt: Vector at time of occlusion
