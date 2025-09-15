@@ -3,7 +3,7 @@ The Ride of the Midnight Cowboys - Redux
 
 *August 16, 2024*
 
-My summer job in high school was at Pico Blanco Scout Reservation, the Boy Scout camp in Big Sur, California. I worked there for three summers teaching basic outdoors skills. There is a lot to be said about Pico, but much of it would be common to anyone who has worked at a scout camp.
+My summer job in high school was at Pico Blanco Scout Reservation, the Boy Scout camp in Big Sur, California. There is a lot to be said about my three summers at Pico, but much of it would be common to anyone who has worked at a scout camp.
 
 Instead, this passage is about climbing a nearby mountain--Mount Pico Blanco, the namesake of the camp--entirely after dark. It is also a reflection on memory and how repetition and photographs affect memory. This was a formative experience for me. However, I have no photographs of it (it was 2011 and in the dark), and I only did it once. It has been an interesting exercise to see how much of it I recall with nothing to jog my memory.
 
