@@ -3,7 +3,7 @@ Courier
 
 I wrote this in college in my third year---extrapolating the year from the notebook I found it in. I had the `Doe Library <https://www.lib.berkeley.edu/visit/doe>`_ North Reading Room in mind for the setting.
 
-On re-reading it and typing it up nine years later, I quite liked it. I have not written dialogue in years, so typing the dialogue felt weird. It was also jarring to realize that the *Encyclopædia Britannica* is no longer published. Outside some punctuation fixes, I only made two changes:
+On re-reading it and typing it up nine years later, I quite liked it. I have not written dialogue in years, and typing the dialogue brought me back. It was also jarring to realize that the *Encyclopædia Britannica* is no longer published. Outside some punctuation fixes, I only made two changes:
 
 * I changed from gendered pronouns to neutral pronouns. I didn't like the connotations that gendered pronouns gave the interaction between the writer and the librarian.
 * It was originally titled "Times New Roman," rather than "Courier."
