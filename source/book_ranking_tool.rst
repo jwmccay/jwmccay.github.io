@@ -1,6 +1,6 @@
 Libby Rankings
 ==============
-I wrote a `tool to rank books I've read <https://github.com/jwmccay/libby-bracket>`_ and its results. It takes a reading history json from Libby and sets up a bracket-style competion in the terminal.
+I wrote a `tool to rank books I've read <https://github.com/jwmccay/libby-bracket>`_. It takes a reading history json from Libby and sets up a bracket-style competion in the terminal.
 
 When I did it, my the top twelve books, in no particular order, were:
 
